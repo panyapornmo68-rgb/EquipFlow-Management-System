@@ -71,8 +71,7 @@ EquipFlow/
 
 **Clone Repository**
    ```bash
-   git clone [https://github.com/panyapornmo68-rgb/EquipFlow-Management-System.git](https://github.com/panyapornmo68-rgb/EquipFlow-Management-System.git)
-   cd EquipFlow-Management-System
+   git clone https://github.com/panyapornmo68-rgb/EquipFlow-Management-System.git
 ```
 
 ### การเปิดโปรเจกต์
