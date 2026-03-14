@@ -1,0 +1,11 @@
+[build-system]
+requires = ["setuptools", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "EquipFlow"
+version = "0.1.0"
+description = "ระบบจัดการยืม-คืนอุปกรณ์ด้วย OOP และ SOLID"
+dependencies = [
+    "PySide6",
+]
